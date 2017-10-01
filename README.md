@@ -26,7 +26,12 @@ The goals / steps of this project are the following:
 [image8]: ./intermediate_images/test2_centroids.jpg "Warped Pixel Centroids"
 [image9]: ./intermediate_images/test2_lines.jpg "Line Fit"
 [image10]: ./output_images/test2.jpg "Output"
+[image11]: ./vimeo_link.png "Link to Vimeo"
 [video1]: ./project_video.mp4 "Video"
+
+---
+
+[![Vimeo Link][image11]](https://vimeo.com/236272236)
 
 ---
 
